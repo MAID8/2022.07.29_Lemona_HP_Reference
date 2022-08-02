@@ -18,5 +18,7 @@ Lemona 반응형 웹 홈페이지 (레퍼런스 / 리뉴얼)
 - Bootstrap Icon
 
 # 대표사진
+![image](https://user-images.githubusercontent.com/105405062/182274397-7165efc8-7d69-4ca4-a6ae-749a91bc4137.png)
+
 
 # 홈페이지 링크
