@@ -10,6 +10,7 @@ Lemona 반응형 웹 홈페이지 (레퍼런스 / 리뉴얼)
 2. main visual 영역 에니메이션
 3. media quary와 flex layout 활용
 4. 동영상 모달창 구현
+5. smooth page scroll
 
 
 ## 활용 라이브러리
